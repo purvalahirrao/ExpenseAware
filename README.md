@@ -46,3 +46,13 @@ ExpenseAware was developed as a practical portfolio project to explore web appli
 ## Author
 
 Purval Ahirrao
+
+
+## Screenshots
+
+### Dashboard
+![ExpenseAware Dashboard](<Screenshot 2026-10-29 114009.png>)
+
+### Reports
+![ExpenseAware Reports](<Screenshot 2026-10-29 114029.png>)
+
