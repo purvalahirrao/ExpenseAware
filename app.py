@@ -8,7 +8,7 @@ import html
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_PATH = os.path.join(BASE_DIR, "expense_aware.db")
-HOST, PORT = "127.0.0.1", 5000
+HOST, PORT = "0.0.0.0", int(os.environ.get("PORT", 5000))
 CURRENCY = "₹"
 
 
